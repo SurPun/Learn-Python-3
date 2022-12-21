@@ -1,4 +1,4 @@
-## Lesson 1 - Hello World (21/12/2022)
+## Lesson 1 - Hello World Quiz (21/12/2022)
 
 1. What is the output of the following code?
 
